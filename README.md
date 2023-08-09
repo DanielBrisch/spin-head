@@ -3,4 +3,4 @@
 # Work Local
 
 
-![](head-gif.gif)
+![](img/gnomo.jpg)
