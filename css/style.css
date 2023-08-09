@@ -2,3 +2,20 @@ html,
 body {
     height: 100%
 }
+
+@keyframes piscar {
+    0% { border-color: red; }
+    25% { border-color: green; }
+    50% { border-color: blue; }
+    75% { border-color: yellow; }
+    100% { border-color: purple; }
+}
+
+#img {
+    border: 2px solid red; /* Cor inicial da borda */
+    animation: piscar 3s infinite; /* Aplica a animação piscar por 3 segundos em loop infinito */
+    padding: 10px; /* Adiciona um espaçamento entre a borda e a imagem */
+    display:flex; 
+    width: 550px; 
+    height: 600px;
+}
