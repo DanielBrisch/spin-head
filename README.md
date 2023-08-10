@@ -2,5 +2,11 @@
 
 # Work Local
 
+# Rebase Teste
 
-![](img/gnomo.jpg)
+# git pull -r
+
+# git pull --rebase
+
+![](head-gif.gif)
+
